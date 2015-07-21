@@ -6,7 +6,7 @@
 ## What's this?
 GeoNames.jpの市町村、特別区、政令市の区、郡、都道府県のURI間の実空間上の隣接関係を、[GeoNames Ontology](http://www.geonames.org/ontology/documentation.html) で定義された[gn:neighbour](http://www.geonames.org/ontology#neighbour) で結ぶデータセットです。
 
-ジオメトリは、[国土数値情報 行政区域データ　平成26年度　（作成時点：平成26年4月1日） (国土交通省)](http://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03.html)　を使用しています。
+隣接関係の判定には [国土数値情報 行政区域データ　平成26年度　（作成時点：平成26年4月1日） (国土交通省)](http://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03.html)　のジオメトリを使用しています。
 
 
 このデータセットのライセンスは [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)  です。
